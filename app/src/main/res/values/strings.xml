@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Insta Saver</string>
+    <string name="dp">DP</string>
+    <string name="post">POST</string>
+    <string name="igtv">IGTV</string>
+    <string name="reel">REEL</string>
+    <string name="video">VIDEO</string>
+    <string name="download">Download</string>
+    <string name="get">Get</string>
+    <string name="paste_the_reels_link_here">Paste the reels link here...</string>
+    <string name="paste_the_post_link_here">Paste the post link here...</string>
+    <string name="insta_saver">INSTA SAVER</string>
+</resources>
